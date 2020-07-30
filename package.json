@@ -1,0 +1,19 @@
+{
+  "name": "htmlmicvisualizer",
+  "version": "1.0.0",
+  "description": "Microphone Visualizer via HTML (usable with OBS)",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MagiusCHE/htmlmicvisualizer.git"
+  },
+  "author": "magiusche@magius.it",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MagiusCHE/htmlmicvisualizer/issues"
+  },
+  "homepage": "https://github.com/MagiusCHE/htmlmicvisualizer#readme"
+}
